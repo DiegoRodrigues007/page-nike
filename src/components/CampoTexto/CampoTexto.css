@@ -1,55 +1,46 @@
-
-
-
-.page-home{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-   
+.page-home {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.img{
-
-    width: 700px;
-
+.img {
+  width: 700px;
 }
 
-.text{
-    /* align-items: center;
-    justify-content: center; */
-    text-align: left;
-    margin-left: 90px;
+.text {
+  text-align: left;
+  margin-left: 90px;
 }
 
-.text h1{
-    font-weight: 800;
-    text-transform: uppercase;
-    font-size: 40px;
-    
+.text h1 {
+  font-weight: 800;
+  text-transform: uppercase;
+  font-size: 40px;
 }
 
 .text p {
-    font-weight: 300;
-    font-size: 20px;
-    
-    max-width: 95%;
+  font-weight: 300;
+  font-size: 20px;
+
+  max-width: 95%;
 }
 
-.button  {
-    display: flex;
-    padding: 18px;
-    width: 100px;
-    height: 15px;
-    border-radius: 15px;
-    background-color: black;
-    color: white;
-    align-items: center;
-    text-transform: uppercase;
-    font-weight: 700;
-    justify-content: center;
-    cursor: pointer;
-    font-size: 22px;
-    margin-left: 150px;
-    margin-bottom: 30px;
-    margin-top: 30px;
+.button {
+  display: flex;
+  padding: 18px;
+  width: 100px;
+  height: 15px;
+  border-radius: 15px;
+  background-color: black;
+  color: white;
+  align-items: center;
+  text-transform: uppercase;
+  font-weight: 700;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 22px;
+  margin-left: 150px;
+  margin-bottom: 30px;
+  margin-top: 30px;
 }
